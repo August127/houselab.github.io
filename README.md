@@ -1,5 +1,3 @@
-# houselab.github.oi
-AI công sở cho nhân viên văn phòng 
 # 🚀 Awesome Vietnam Office Toolkit 2026: AI Prompts & Labor Finance Calculators
 
 [![Ecosystem](https://img.shields.io/badge/Ecosystem-HouseLab.vn-2563eb?style=for-the-badge)](https://houselab.vn)
